@@ -1,6 +1,6 @@
-Ao realizar o clone seguir os passos abaixo: 
-npm i --force
-Alterar a conexao do banco de dados no arquivo .env que esta na raiz do projeto
+Ao realizar o clone: 
+npm i --force,
+Alterar a conexao do banco de dados no arquivo .env que esta na raiz do projeto,
 npm run start:dev 
 
 
