@@ -1,3 +1,9 @@
+Ao realizar o clone seguir os passos abaixo: 
+npm i --force
+Alterar a conexao do banco de dados no arquivo .env que esta na raiz do projeto
+npm run start:dev 
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
